@@ -63,7 +63,6 @@ PSD.timeline.on Events.DragStart, (event) ->
 # can release to refresh.
 PSD.timeline.on Events.DragMove, (event) ->
 	deltaY = startY - event.pageY
-	print("deltaY" + deltaY)
 	PSD.timeline.y = (timelineStartY - deltaY)
 	PSD.arrow.y = (utimelineStartY - deltaY - 40)
 	PSD.spinner.y = (stimelineStartY - deltaY )

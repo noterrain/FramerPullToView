@@ -179,7 +179,7 @@ window.Framer.Defaults.DeviceView = {
 
 window.FramerStudioInfo = {
   "deviceImagesUrl" : "file:\/\/\/Users\/WU\/Downloads\/Framer%20Studio.app\/Contents\/Resources\/DeviceImages\/",
-  "documentTitle" : " tracker5 copy 6.framer"
+  "documentTitle" : "pullToFresh.framer"
 };
 
 Framer.Device = new Framer.DeviceView();
