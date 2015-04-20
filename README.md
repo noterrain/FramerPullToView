@@ -5,3 +5,5 @@ The common "pull to refresh" UX concept is in various applications like Twitter.
 ![alt tag](https://github.com/noterrain/FramerPullToView/blob/master/framer.gif)
 
 
+
+[framerjs examples](http://examples.framerjs.com/#animation-basics.framer).
